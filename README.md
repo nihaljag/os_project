@@ -5,5 +5,6 @@
 ## To run, use these commands in terminal in project directory
 Step1:
 > docker build -t os_project .
+
 Step2:
 > docker run os_project
